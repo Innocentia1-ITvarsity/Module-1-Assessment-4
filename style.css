@@ -1,0 +1,25 @@
+th{
+    font-weight:800;
+}
+table{
+    font-family: Helvetica, sans-serif;
+}
+table {
+    border-collapse: collapse;
+}
+th{
+    font-weight:800;
+    background-color: #ffffff;
+    color:darkblue;
+    
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: blue
+}
+body{
+    background-color: aquamarine
+}
